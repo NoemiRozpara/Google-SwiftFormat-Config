@@ -7,7 +7,7 @@
 
 # Rules explicitly required by the guideline
 
---rules 				\
+--rules		\
 blankLinesAroundMark,		\
 blankLinesAtEndOfScope,		\
 blankLinesAtStartOfScope,		\
