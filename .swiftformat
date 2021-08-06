@@ -7,54 +7,54 @@
 
 # Rules explicitly required by the guideline
 
---rules		\
-blankLinesAroundMark,		\
-blankLinesAtEndOfScope,		\
-blankLinesAtStartOfScope,		\
-blankLinesBetweenScopes,		\
-braces,				\
-consecutiveBlankLines,		\
-consecutiveSpaces,		\
-duplicateImports,		\
-elseOnSameLine,			\
-emptyBraces,			\
-enumNamespaces,			\
-extensionAccessControl,		\
-hoistPatternLet,			\
-indent,				\
-leadingDelimiters,		\
-linebreakAtEndOfFile,		\
-markTypes,			\
-organizeDeclarations,		\
-redundantInit,			\
-redundantParens,			\
-redundantPattern,		\
-redundantRawValues,		\
-redundantType,			\
-redundantVoidReturnType,		\
-semicolons,			\
-sortedImports,			\
-sortedSwitchCases,		\
-spaceAroundBraces,		\
-spaceAroundBrackets,		\
-spaceAroundComments,		\
-spaceAroundGenerics,		\
-spaceAroundOperators,		\
-spaceAroundParens,		\
-spaceInsideBraces,		\
-spaceInsideBrackets,		\
-spaceInsideComments,		\
-spaceInsideGenerics,		\
-spaceInsideParens,		\
-todos,				\
-trailingClosures,		\
-trailingCommas,			\
-trailingSpace,			\
-typeSugar,			\
-void,				\
-wrap,				\
-wrapArguments,			\
-wrapAttributes,			\
+--rules                           \
+blankLinesAroundMark,             \
+blankLinesAtEndOfScope,           \
+blankLinesAtStartOfScope,         \
+blankLinesBetweenScopes,          \
+braces,                           \
+consecutiveBlankLines,            \
+consecutiveSpaces,                \
+duplicateImports,                 \
+elseOnSameLine,                   \
+emptyBraces,                      \
+enumNamespaces,                   \
+extensionAccessControl,           \
+hoistPatternLet,                  \
+indent,                           \
+leadingDelimiters,                \
+linebreakAtEndOfFile,             \
+markTypes,                        \
+organizeDeclarations,             \
+redundantInit,                    \
+redundantParens,                  \
+redundantPattern,                 \
+redundantRawValues,               \
+redundantType,                    \
+redundantVoidReturnType,          \
+semicolons,                       \
+sortedImports,                    \
+sortedSwitchCases,                \
+spaceAroundBraces,                \
+spaceAroundBrackets,              \
+spaceAroundComments,              \
+spaceAroundGenerics,              \
+spaceAroundOperators,             \
+spaceAroundParens,                \
+spaceInsideBraces,                \
+spaceInsideBrackets,              \
+spaceInsideComments,              \
+spaceInsideGenerics,              \
+spaceInsideParens,                \
+todos,                            \
+trailingClosures,                 \
+trailingCommas,                   \
+trailingSpace,                    \
+typeSugar,                        \
+void,                             \
+wrap,                             \
+wrapArguments,                    \
+wrapAttributes,                   \
 #
 #
 # Additional rules not mentioned in the guideline, but helping to keep the codebase clean 
@@ -64,17 +64,17 @@ wrapAttributes,			\
 # unless being explicit improves readability and/or reduces ambiguity.
 #
 #
-andOperator,			\
-isEmpty,				\
-redundantBackticks,		\
-redundantBreak,			\
-redundantExtensionACL,		\
-redundantGet,			\
-redundantLetError,		\
-redundantNilInit,			\
-redundantObjc,			\
-redundantReturn,			\
-redundantSelf,			\
+andOperator,                      \
+isEmpty,                          \
+redundantBackticks,               \
+redundantBreak,                   \
+redundantExtensionACL,            \
+redundantGet,                     \
+redundantLetError,                \
+redundantNilInit,                 \
+redundantObjc,                    \
+redundantReturn,                  \
+redundantSelf,                    \
 strongifiedSelf
 
 
